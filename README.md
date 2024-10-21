@@ -70,6 +70,13 @@
 <br>
 <h2>Activity</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px">
-    <a href="https://wakatime.com"><img style="border-radius: 5px;" src="https://wakatime.com/share/@e7de38c3-c624-46fc-bc5f-60a312413e6b/474e1bcf-a938-4fc9-b736-ffa4e5a2d3f7.png"/></a>
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wolphwood&show_icons=true&locale=en&layout=compact" alt="wolphwood" /></p>
+    <a href="https://wakatime.com">
+        <img style="border-radius: 5px;" src="https://wakatime.com/share/@e7de38c3-c624-46fc-bc5f-60a312413e6b/474e1bcf-a938-4fc9-b736-ffa4e5a2d3f7.png"/>
+    </a>
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wolphwood&show_icons=true&locale=en&layout=compact" alt="wolphwood" height="200"/>
+    </p>
+    <a href="https://wakatime.com">
+        <img style="border-radius: 5px;" src="https://wakatime.com/share/@e7de38c3-c624-46fc-bc5f-60a312413e6b/7bb9ae42-7af2-49e9-b17e-a934ae54f90c.png" height="200"/>
+    </a>
 </div>
