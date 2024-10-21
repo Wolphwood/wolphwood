@@ -1,8 +1,10 @@
 <div style="margin: 0; padding: 0;">
-    <h1></h1>
+    <h1>Hi there 👋</h1>
+    <p>👋 Hello, moi c'est Wolphwood, développeur & random du net.</p>
+    <p>Petit codeur pas fou avec des projets encore moins fous, je me perds régulièrement dans le continuum espace-temps.<br>
+    Entre deux commandes Git ou trois boucles infinie en JavaScript, j'essaie de faire semblant de comprendre ce que je fais.<br>
+    Curieux par nature, je teste un peu de tout... et je casse un peu de tout aussi. 😅</p>
 </div>
-
-## Hi there 👋
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px">
     <div>
@@ -52,28 +54,25 @@
             <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48"/>
             </a>
+            <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer">
+                <img src="https://upload.wikimedia.org/wikipedia/en/7/7c/Batch_file_icon.png" alt="html5" width="48"/>
+            </a>
         </div>
     </div>
+</div>
+<br>
+<h2>Mes projets favoris</h2>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px">
+    <a href="https://github.com/Wolphwood/CGM">
+        <img src="https://github.com/user-attachments/assets/1e7b80e9-1f85-4644-b63c-a2f407d5348d" alt="Corridor Game Maker"/ height="48">
+    </a>
+    <a href="https://github.com/Wolphwood/CGM">
+        <img src="https://github.com/user-attachments/assets/4bb682e3-6cba-487f-8896-0cc7bd3ec1bb" alt="KSMP Mod Updater"/ height="48">
+    </a>
 </div>
 <br>
 <h2>Activity</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px">
     <a href="https://wakatime.com"><img style="border-radius: 5px;" src="https://wakatime.com/share/@e7de38c3-c624-46fc-bc5f-60a312413e6b/474e1bcf-a938-4fc9-b736-ffa4e5a2d3f7.png"/></a>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wolphwood&show_icons=true&locale=en&layout=compact" alt="wolphwood" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wolphwood&show_icons=true&locale=en&layout=compact" alt="wolphwood" /></p>
 </div>
-
-
-<!--
-**Wolphwood/wolphwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
