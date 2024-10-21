@@ -63,7 +63,7 @@
     <a href="https://github.com/Wolphwood/CGM">
         <img src="https://github.com/user-attachments/assets/1e7b80e9-1f85-4644-b63c-a2f407d5348d" alt="Corridor Game Maker"/ height="48">
     </a>
-    <a href="https://github.com/Wolphwood/CGM">
+    <a href="https://github.com/Wolphwood/ksmp-mod-updater">
         <img src="https://github.com/user-attachments/assets/4bb682e3-6cba-487f-8896-0cc7bd3ec1bb" alt="KSMP Mod Updater"/ height="48">
     </a>
 </div>
